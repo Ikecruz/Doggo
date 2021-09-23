@@ -89,10 +89,10 @@ export default {
         }
     },
     mounted(){
-        fetch('https://ed7c3bcd-42ef-4ca1-9b2a-b695e780eb15.mock.pstmn.io/dogfacts')
-        .then(res => res.json())
-        .then(data => this.facts = data)
-        .catch(err => console.log(err.message))
+        // fetch('https://ed7c3bcd-42ef-4ca1-9b2a-b695e780eb15.mock.pstmn.io/dogfacts')
+        // .then(res => res.json())
+        // .then(data => this.facts = data)
+        // .catch(err => console.log(err.message))
     }
 }
 </script>
