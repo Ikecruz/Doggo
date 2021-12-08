@@ -10,7 +10,7 @@
                 <a href="https://github.com/Ikecruz" target="_blank" class="link">
                     <i class="bi-github"></i>
                 </a>
-                <a href="https://twitter.com/DevCruzTM" target="_blank" class="link">
+                <a href="https://twitter.com/ikxcrxz" target="_blank" class="link">
                     <i class="bi-twitter"></i>
                 </a>
                 <a href="https://www.linkedin.com/in/onyeka-ikedinobi-98538b204/" target="_blank" class="link">
